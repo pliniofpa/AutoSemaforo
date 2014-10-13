@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>icon.ico</file>
+        <file>sireneon.png</file>
+        <file>offonoff.png</file>
+        <file>onoffoff.png</file>
+        <file>delete.ico</file>
+        <file>edit_add.ico</file>
+        <file>offoffon.png</file>
+    </qresource>
+</RCC>
